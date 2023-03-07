@@ -1,0 +1,9 @@
+Name	            Position	        Account	        Related Keyword	                                Number of Tweets
+Otto Addo	        Head Coach	        No Account	    #OttoAddo, Otto Addo	                        12,205
+Chris Houghton	    Technical Advisor	No Account	    ChrisHoughton, Chris Houghton, #ChrisHoughton	190
+George Boateng	    Assistant Coach	    No Account	    GeorgeBoateng, George Boateng, #GeorgeBoateng	193
+Mas-Ud Didi Dramani	Assistant Coach	    No Account	    DidiDramani, Mas-Ud Didi Dramani, #DidiDramani	3
+Tanko Ibrahim	    Local Coach	        @itanko25	    Ibrahim Tanko, #IbrahimTanko	                38
+Prosper Ogum	    Local Coach	        @ProsNartehOgum	Prosper Narteh Ogum, #ProsperNartehOgum	        9
+Samuel Boadu	    Local Coach	        @OfficialBoadu	SamBoaduOfficial, #SamuelBoadu	                34
+Ignatius Osei Fosu	Local Coach	        @OseiFosu_IK	Ignatius Kwame Osei-Fosu, #IgnatiusOseiFosu	    1
