@@ -1,0 +1,11 @@
+Hashtags	            Number of Tweets
+#blackstars	            22,522
+#fifaworldcup	        11,549
+#qatar2022	            8,719
+#teamghana	            4,988
+#ghana	                2,943
+#gha	                2,885
+#porgha	                1,828
+#fifaworldcupqatar2022	1,729
+#ghauru	                1,395
+#worldcupqatar2022	    1,259
