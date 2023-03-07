@@ -18,7 +18,7 @@ Number of Tweets:	132,115<br/>
 Number of duplicate tweets:	13,625<br/>
 Number of Unique tweets:	118,490<br/>
 Number of Retweets:	22,448<br/>
-Average number of tweets per day:	8,260 [](images/figure2.png)<br/>
+Average number of tweets per day:	8,260 ![](images/figure2.png)<br/>
 Average number of tweets per player:	2520<br/>
 Tweets with location:	91,256
 
