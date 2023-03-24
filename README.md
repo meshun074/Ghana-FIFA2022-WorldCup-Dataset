@@ -25,7 +25,7 @@ Tweets with location:	91,256
 * [Dataset wordcloud](images/wordcloud.png)
 
 # Guideline to Hydrate or use Tweepy
- ### Using Notebook to hydrate ### 
+ ### Using Twarc to hydrate ### 
 To hydrate the tweets-ID from our [Ghana-FIFA2022-WorldCup-Dataset](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset) use the file  [Twarc](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset/blob/main/Guildlines_to_retrieve_tweets/twarc.ipynb) notebook.
 
  ### Using Tweepy in a Notebook ### 
