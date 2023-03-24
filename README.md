@@ -31,7 +31,7 @@ To hydrate the tweets-ID from our [Ghana-FIFA2022-WorldCup-Dataset](https://gith
 * You are required to have a Twitter developer account
 
  ### Using Tweepy in a Notebook ### 
- To use tweepy library to retrieve tweets using tweets-ID from our [Ghana-FIFA2022-WorldCup-Dataset](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset) use the file  [Tweepy](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset/blob/main/Guildlines_to_retrieve_tweets/Tweepy.ipynb)notebook.
+ To use tweepy library to retrieve tweets using tweets-ID from our [Ghana-FIFA2022-WorldCup-Dataset](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset) use the file  [Tweepy](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset/blob/main/Guildlines_to_retrieve_tweets/Tweepy.ipynb) notebook.
 
 
 # Acknowledgement
