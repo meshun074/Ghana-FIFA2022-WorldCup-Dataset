@@ -9,7 +9,7 @@ This repository contains IDs of tweets that were sent to the twitter account of 
 # Dataset collection
 * Tweets were collected from November 18th to December 3rd 2022.
 * The tweets were collected using the official Twitter account names of the players, their known names or nicknames and other hashtags.The Account name and searched keywords folder contains a list of the 26-man squad, number of tweets and their keywords used in generating the tweets.
-* Tweets can be fully collected using the following tools [Hydrator](https://github.com/DocNow/hydrator)  and [twarc](https://github.com/DocNow/twarc).
+* Tweets can be fully collected using the following tools [Hydrator](https://github.com/DocNow/hydrator)  and [twarc](https://github.com/DocNow/twarc) or [Tweepy](https://www.tweepy.org/).
 
 # Dataset Statistics
 The following are the collective summary if the dataset<br/>
@@ -23,6 +23,16 @@ Average number of tweets per player:	2520<br/>
 Tweets with location:	91,256
 
 * [Dataset wordcloud](images/wordcloud.png)
+
+# Guideline to Hydrate or use Tweepy
+ ### Using Notebook to hydrate ### 
+To hydrate the tweets-ID from our [Ghana-FIFA2022-WorldCup-Dataset](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset) use the file  [Twarc](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset/blob/main/Guildlines_to_retrieve_tweets/twarc.ipynb)notebook.
+
+* You are required to have a Twitter developer account
+
+ ### Using Tweepy in a Notebook ### 
+ To use tweepy library to retrieve tweets using tweets-ID from our [Ghana-FIFA2022-WorldCup-Dataset](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset) use the file  [Tweepy](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset/blob/main/Guildlines_to_retrieve_tweets/Tweepy.ipynb)notebook.
+
 
 # Acknowledgement
 * This work was made possible by Dr. Rose-Mary Gyening, Dr. Kate Takyi and  Sarah Alqurashi
