@@ -28,10 +28,10 @@ Tweets with location:	91,256
  ### Using Notebook to hydrate ### 
 To hydrate the tweets-ID from our [Ghana-FIFA2022-WorldCup-Dataset](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset) use the file  [Twarc](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset/blob/main/Guildlines_to_retrieve_tweets/twarc.ipynb) notebook.
 
-* You are required to have a Twitter developer account
-
  ### Using Tweepy in a Notebook ### 
  To use tweepy library to retrieve tweets using tweets-ID from our [Ghana-FIFA2022-WorldCup-Dataset](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset) use the file  [Tweepy](https://github.com/meshun074/Ghana-FIFA2022-WorldCup-Dataset/blob/main/Guildlines_to_retrieve_tweets/Tweepy.ipynb) notebook.
+ 
+ * Note you are required to have a Twitter developer account
 
 
 # Acknowledgement
