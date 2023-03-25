@@ -23,6 +23,7 @@ Average number of tweets per player:	2520<br/>
 Tweets with location:	91,256
 
 * [Dataset wordcloud](images/wordcloud.png)
+* [Poster Presentation](poster/poster.PNG)
 
 # Guideline to Hydrate or use Tweepy
  ### Using Twarc to hydrate ### 
